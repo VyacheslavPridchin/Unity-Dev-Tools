@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637809601747927998
-    m_Hash: 3086559985
+      ticks: 637809832839357897
+    m_Hash: 491517732
   m_LockFileStatus:
     m_FilePath: C:/Users/vyach/Documents/Unity/Unity Dev Tools/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637809601781334096
-    m_Hash: 1889107499
+      ticks: 637809838032345528
+    m_Hash: 4156023927
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:
@@ -2551,6 +2551,81 @@ m_PackageAssets:
       repository:
         type: 
         url: 
+        revision: 
+        path: 
+    - packageId: jillejr.newtonsoft.json-for-unity@13.0.102
+      testable: 0
+      isDirectDependency: 1
+      version: 13.0.102
+      source: 1
+      resolvedPath: C:\Users\vyach\Documents\Unity\Unity Dev Tools\Library\PackageCache\jillejr.newtonsoft.json-for-unity@13.0.102
+      assetPath: Packages/jillejr.newtonsoft.json-for-unity
+      name: jillejr.newtonsoft.json-for-unity
+      displayName: Json.NET 13.0.1 for Unity
+      author:
+        name: jilleJr
+        email: 
+        url: 
+      category: Utility
+      type: library
+      description: "Json.NET is a popular high-performance JSON framework for .NET\n\nThis
+        package is a fork of Newtonsoft.Json containing custom builds targeting standalone,
+        portable (UWP, WP8), and AOT targets such as all IL2CPP builds (iOS, WebGL,
+        Android, Windows, Mac OS X, et.al).\n\nThis package is licensed under The
+        MIT License (MIT)\n\nCopyright \xA9 2019 Kalle Jillheden (jilleJr)\nhttps://github.com/jilleJr/Newtonsoft.Json-for-Unity\n\nCopyright
+        \xA9 2016 SaladLab\nhttps://github.com/SaladLab/Json.Net.Unity3D\n\nCopyright
+        \xA9 2007 James Newton-King\nhttps://github.com/JamesNK/Newtonsoft.Json\n\nSee
+        full copyrights in LICENSE.md inside package"
+      status: 4
+      errors: []
+      versions:
+        all:
+        - 10.0.302
+        - 11.0.202
+        - 12.0.101
+        - 12.0.102
+        - 12.0.201
+        - 12.0.301
+        - 12.0.302
+        - 13.0.102
+        compatible:
+        - 10.0.302
+        - 11.0.202
+        - 12.0.101
+        - 12.0.102
+        - 12.0.201
+        - 12.0.301
+        - 12.0.302
+        - 13.0.102
+        verified: 
+      dependencies: []
+      resolvedDependencies: []
+      keywords:
+      - json
+      - json.net
+      - newtonsoft
+      - newtonsoft.json
+      - unity
+      - upm
+      registry:
+        id: scoped:jilleJr
+        name: jilleJr
+        url: https://npm.cloudsmith.io/jillejr/newtonsoft-json-for-unity
+        scopes:
+        - jillejr.newtonsoft.json-for-unity
+        isDefault: 0
+        capabilities: 0
+      hasRegistry: 1
+      hideInEditor: 1
+      entitlements:
+        isAllowed: 1
+      isAssetStorePackage: 0
+      datePublishedTicks: 637522114420388130
+      documentationUrl: 
+      hasRepository: 1
+      repository:
+        type: git
+        url: https://github.com/jilleJr/Newtonsoft.Json-for-Unity.git
         revision: 
         path: 
     - packageId: com.unity.modules.subsystems@1.0.0

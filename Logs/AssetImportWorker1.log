@@ -1,0 +1,24 @@
+Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.2f1 (8fd9074bf66c) revision 9427207'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Education; OS build 17763.805; Version 1809; 64bit' Language: 'ru' Physical Memory: 8041 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.2f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker1
+-projectPath
+C:/Users/vyach/Documents/Unity/Unity Dev Tools
+-logFile
+Logs/AssetImportWorker1.log
+-srvPort
+49610
+Successfully changed project path to: C:/Users/vyach/Documents/Unity/Unity Dev Tools
+C:/Users/vyach/Documents/Unity/Unity Dev Tools
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 22.98 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.2f1 (8fd9074bf66c)
